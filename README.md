@@ -10,11 +10,11 @@ Part of an unnecessarily long method of obtaining videos from the realSASL websi
 4. Links fixed in vim.
 5. Videos downloaded with yt-dlp.
 
-##readman.sh
+## readman.sh
 
 Creates a pdf of a man page, opens it in evince, and deletes it once done reading.
 
-##to_pdf.sh
+## to_pdf.sh
 
 Returns output of any command as a pdf and opens it in evince.
 
