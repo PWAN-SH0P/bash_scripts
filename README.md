@@ -10,7 +10,7 @@ Part of an unnecessarily long method of obtaining videos from the realSASL websi
 4. Links fixed in vim.
 5. Videos downloaded with yt-dlp.
 
-## Gopher Search
+## gopher_search.sh
 
 Takes the port and url as input to curl and returns the contents of a gopher page. That's it.
 
